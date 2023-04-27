@@ -2,6 +2,7 @@
 title: "About_me"
 date: 2023-04-27T17:10:31-04:00
 draft: true
+---
 
 Welcome to my website! My name is Eduard Boehm, I am a fifth year Ph.D. student in Economics at Princeton University. I work in the intersection of Industrial Organization and Public Economics. My research focuses on the role that information plays in the decisions that made by consumers, firms and the government -- and its implications for the design of public policies.
 
@@ -12,5 +13,4 @@ I am also interested in higher education admissions and the implications of the 
 I hold a B.Sc. in Economics (with a minor in Math) from the University of Mannheim and an M.Sc. in Econometrics and Mathematical Economics from the London School of Economics. 
 
 I like dogs and pandas :)
----
 
