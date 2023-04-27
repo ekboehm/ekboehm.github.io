@@ -1,4 +1,4 @@
-baseURL = 'https://ekboehm.github.io/'
+baseURL = 'ekboehm.github.io/'
 languageCode = 'en-us'
 title = 'Eduard Boehm'
 theme = 'ananke'
