@@ -6,7 +6,7 @@ enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 aboutExcerptSentences = 3
-
+dark = "off"
 
 [params]
   description = "Welcome to my website! I am a fifth year Ph.D. student in Economics at Princeton University. I work in the intersection of Industrial Organization and Public Economics."
