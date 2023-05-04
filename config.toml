@@ -1,11 +1,11 @@
 baseURL = "ekboehm.github.io"
 title = "Eduard Boehm"
-theme = "etch"
+theme = "etch-custom"
 languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
-aboutExcerptSentences = 2
+aboutExcerptSentences = 3
 
 
 [params]
