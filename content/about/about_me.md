@@ -1,6 +1,6 @@
 ---
-title: "About_me"
-date: 2023-04-27T17:10:31-04:00
+title: "About"
+# date: 2023-04-27T17:10:31-04:00
 draft: true
 ---
 
@@ -10,7 +10,6 @@ In my main project, I study the interaction the role of intermediation in addres
 
 I am also interested in higher education admissions and the implications of the use of different selection tools -- such as GPA and standardized test scores -- for the diversity and academic achievements of students. Finally, I am also interested in tax policy and the desing of efficient and well-targeted fiscal policy.
 
-I hold a B.Sc. in Economics (with a minor in Math) from the University of Mannheim and an M.Sc. in Econometrics and Mathematical Economics from the London School of Economics. 
+I hold a B.Sc. in Economics (with a minor in Math) from the University of Mannheim and an M.Sc. in Econometrics and Mathematical Economics from the London School of Economics.  
 
-I like dogs and pandas :)
-
+Outside work, I enjoy playing volleyball and the electric guitar, and recently also embarrassing myself trying to dance tango.

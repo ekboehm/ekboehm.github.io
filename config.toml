@@ -1,4 +1,37 @@
-baseURL = 'ekboehm.github.io'
-languageCode = 'en-us'
-title = 'Eduard Boehm'
-theme = 'ananke'
+baseURL = "ekboehm.github.io"
+title = "Eduard Boehm"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+aboutExcerptSentences = 2
+
+
+[params]
+  description = "Welcome to my website! I am a fifth year Ph.D. student in Economics at Princeton University. I work in the intersection of Industrial Organization and Public Economics."
+  copyright = "Copyright © 2023 Eduard Boehm"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "research"
+    name = "research"
+    title = "Research"
+    url = "/research/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "About"
+    url = "/about/about_me"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
