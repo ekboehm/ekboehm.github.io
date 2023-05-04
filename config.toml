@@ -19,7 +19,7 @@ aboutExcerptSentences = 2
     identifier = "research"
     name = "research"
     title = "Research"
-    url = "/research/"
+    url = "/research/research"
     weight = 10
 
   [[menu.main]]
@@ -28,6 +28,20 @@ aboutExcerptSentences = 2
     title = "About"
     url = "/about/about_me"
     weight = 20
+
+  [[menu.main]]
+    identifier = "teaching"
+    name = "teaching"
+    title = "Teaching"
+    url = "/teaching/teaching"
+    weight = 30
+
+    [[menu.main]]
+    identifier = "cv"
+    name = "cv"
+    title = "cv"
+    url = "https://www.dropbox.com/s/1xw5sc2cs49307o/boehm_cv.pdf?dl=0"
+    weight = 40
 
 [permalinks]
   posts = "/:title/"
