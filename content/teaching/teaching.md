@@ -23,10 +23,10 @@ Course organizer and teaching assistant for Prof. Alan Blinder -- Fall 2020
 Teaching assistant for Prof. Tom Krebs -- Spring 2017
 
 #### Linear Algebra (IIA)
-Teaching assistant for Prof. Sigmund Böcherer -- Spring 2016
+Teaching assistant for Prof. Siegfried Böcherer -- Spring 2016
 
 #### Linear Algebra
-Teaching assistant for Prof. Sigmund Böcherer -- Fall 2015
+Teaching assistant for Prof. Siegfried Böcherer -- Fall 2015
 
 
 <!-- 
