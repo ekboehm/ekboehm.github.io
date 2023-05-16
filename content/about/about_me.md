@@ -14,4 +14,4 @@ I hold a B.Sc. in Economics (with a minor in Math) from the University of Mannhe
 
 Please feel free to reach out anytime to chat! -- you can reach me at eboehm at princeton dot edu
 
-Website credit goes to [Álvaro Carril](https://acarril.github.io)
+Website based on [Etch theme](https://themes.gohugo.io/themes/etch/) and [Álvaro Carril](https://acarril.github.io). Photo by [Mira Gordin](https://miragordin.github.io/).
