@@ -11,7 +11,7 @@ Instructor -- Summer 2021
 #### PhD Econometrics (ECO 517)
 Teaching assistant for Prof. Michal Kolesár and Prof. Bo Honoré -- Fall 2021
 
-#### Intermediate Macroeconomics -- A Mathematical Approach (ECO 313)
+#### Intermediate Macroeconomics -- A Mathematical Approach (ECO 311)
 Teaching assistant for Prof. Gianluca Violante -- Spring 2021
 
 #### Introduction to Macroeconomics (ECO 101)
