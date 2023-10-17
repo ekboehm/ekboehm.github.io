@@ -16,31 +16,31 @@ dark = "off"
 
 [menu]
   [[menu.main]]
-    identifier = "research"
-    name = "research"
-    title = "Research"
-    url = "/research/research"
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/about_me"
     weight = 10
 
   [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "About"
-    url = "/about/about_me"
+    identifier = "research"
+    name = "Research"
+    title = "Research"
+    url = "/research/research"
     weight = 20
 
   [[menu.main]]
     identifier = "teaching"
-    name = "teaching"
+    name = "Teaching"
     title = "Teaching"
     url = "/teaching/teaching"
     weight = 30
 
     [[menu.main]]
     identifier = "cv"
-    name = "cv"
+    name = "CV"
     title = "cv"
-    url = "https://www.dropbox.com/s/1xw5sc2cs49307o/boehm_cv.pdf?dl=0"
+    url = "https://www.dropbox.com/scl/fi/o2ltxddwvqthol2am4or1/boehm_cv.pdf?rlkey=x9cqf6tpy97xrvmmkwl6oony9&dl=0"
     weight = 40
 
 [permalinks]
