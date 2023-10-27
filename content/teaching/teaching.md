@@ -1,8 +1,6 @@
 ---
 title: "Teaching"
 draft: false
-menu: "teaching"
-is_active: true
 ---
 
 ### At Princeton

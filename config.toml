@@ -11,7 +11,7 @@ dark = "off"
 [params]
   description = "Welcome to my website!"
   copyright = ""
-  dark = "auto"
+  dark = "off"
   highlight = true
 
 [menu]
