@@ -9,8 +9,8 @@ aboutExcerptSentences = 3
 dark = "off"
 
 [params]
-  description = "Welcome to my website! I am a fifth year Ph.D. student in Economics at Princeton University. I work in the intersection of Industrial Organization and Public Economics."
-  copyright = "Copyright © 2023 Eduard Boehm"
+  description = "Welcome to my website!"
+  copyright = ""
   dark = "auto"
   highlight = true
 
@@ -26,7 +26,7 @@ dark = "off"
     identifier = "research"
     name = "Research"
     title = "Research"
-    url = "/research/research"
+    url = "/research/research/"
     weight = 20
 
   [[menu.main]]
@@ -36,11 +36,11 @@ dark = "off"
     url = "/teaching/teaching"
     weight = 30
 
-    [[menu.main]]
+  [[menu.main]]
     identifier = "cv"
     name = "CV"
     title = "cv"
-    url = "https://www.dropbox.com/scl/fi/o2ltxddwvqthol2am4or1/boehm_cv.pdf?rlkey=x9cqf6tpy97xrvmmkwl6oony9&dl=0"
+    url = "/documents/boehm_cv.pdf"
     weight = 40
 
 [permalinks]

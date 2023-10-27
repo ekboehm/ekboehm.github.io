@@ -1,6 +1,8 @@
 ---
 title: "Research"
 draft: false
+menu: "research"
+is_active: true
 ---
 
 ### Job Market Paper
@@ -8,9 +10,9 @@ draft: false
 #### Intermediation, Choice Frictions, and Adverse Selection: Evidence from the Chilean Pension Market
 
 _draft coming soon!_
-
-<!-- <div class="max-width-text"> -->
-This paper analyzes the consumer welfare effects of intermediaries in a pension insurance market with selection. Intermediaries help individuals overcome cognitive frictions and improve choices when products are complex to understand. However, intermediaries introduce distortions when their financial incentives are not aligned with their customers'. In an insurance market, these competing effects can lead to changes in individuals' selection into products, which in turn impact average costs and prices. I document the importance of intermediation and its connection to consumer selection in the context of the Chilean pension market, where products are complex and intermediaries have an incentive to sell annuities. I estimate a dynamic choice model that includes life-cycle decisions, product, and intermediation choices. I find that consumers would give up 5% of pension payments to eliminate all uncertainty from decisions. Although 70% of those intermediated are distorted into choosing a suboptimal annuity over the outside option, a ban on intermediation is welfare neutral. The variety of annuities explains the result: for the average retiree, the "best" annuity is not too different from the outside option. Annuitization falls from 60% to 40% and exacerbated consumer selection increases annuity costs by up to 5%. Distortions from intermediaries are of just 7.5% of pension payments, which are matched by the sum of friction costs, mistakes in non-intermediated choices, and price increases due to selection following an intermediary ban. In light of policy concerns regarding the role of intermediaries, my results highlight the value provided by advisors --even with biased incentives-- when choices are complex and stakes are high.
+<div class="max-width-text">
+This paper analyzes the consumer-welfare effects of intermediaries in a pension and annuity market with selection. Intermediaries provide advice, helping individuals improve decisions when understanding products is complex and costly. However, advisors can introduce distortions when their financial incentives are not aligned with their customers'. In an insurance market, these competing effects can lead to changes in adverse selection, which in turn impact average costs and prices.  I document the importance of intermediation and its connection to consumer selection in the context of the Chilean pension market, where products are complex and intermediaries have a financial incentive to sell annuities. To quantify the effects of intermediary regulations, I develop and estimate a dynamic demand model that includes life-cycle decisions, product, and intermediation choices. I find retirees would give up 5% of pension payments – around 250 USD a year – to eliminate frictions in product choices, indicating a potential for intermediaries to improve welfare. Despite intermediaries steering a majority of their customers into annuities, a ban is approximately consumer-welfare neutral. The variety of annuities and their substitutability with the outside option limit the harm from intermediaries' misaligned incentives. Losses from distortions induced by intermediaries in the benchmark are balanced out by costs of making decisions without advice and prices increasing due to adverse selection upon a ban. In light of policy concerns regarding the role of intermediaries, my results highlight the potential value provided by advisors – even with biased incentives – when choices are complex and stakes are high.
+</div>
 
 ### Work in Progress
 
