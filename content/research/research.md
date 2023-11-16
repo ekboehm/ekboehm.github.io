@@ -16,12 +16,14 @@ This paper analyzes the consumer-welfare effects of intermediaries in a pension 
 
 ### Work in Progress
 
-#### College Admissions and Preferences for Students
-with [Álvaro Carril](https://acarril.github.io)
-
-_slides coming soon!_
-
 #### [Tax Losses, Financing Constraints and Targeting Corporate Fiscal Incentives](/documents/nol_slides_2023_10_13.pdf)
 
 with [Jordan Richmond](https://jordan-richmond.github.io/) and [Eric Zwick](http://www.ericzwick.com/)
+
+
+#### College Admissions and Preferences for Students
+with [Álvaro Carril](https://acarril.github.io)
+
+_slides coming Nov 20!_
+
 
