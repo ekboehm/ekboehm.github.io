@@ -21,9 +21,9 @@ This paper analyzes the consumer-welfare effects of intermediaries in a pension 
 
 ### Work in Progress
 
-#### [Tax Losses, Financing Constraints and Targeting Corporate Fiscal Incentives](/documents/nol_slides_2023_10_13.pdf)
+#### [Tax Losses, Financing Constraints and Targeting Corporate Fiscal Incentives](/documents/nol_slides_2023_11_17.pdf)
 
-with [Jordan Richmond](https://jordan-richmond.github.io/) and [Eric Zwick](http://www.ericzwick.com/)
+with [Jordan Richmond](https://jordan-richmond.github.io/) and [Eric Zwick](http://www.ericzwick.com/) (approved IRS project)
 
 
 #### College Admissions and Preferences for Students
