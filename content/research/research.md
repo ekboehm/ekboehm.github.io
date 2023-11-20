@@ -29,6 +29,6 @@ with [Jordan Richmond](https://jordan-richmond.github.io/) and [Eric Zwick](http
 #### College Admissions and Preferences for Students
 with [Álvaro Carril](https://acarril.github.io)
 
-_slides coming Nov 20!_
+_slides coming Nov 22!_
 
 
