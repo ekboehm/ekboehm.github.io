@@ -26,9 +26,6 @@ This paper analyzes the consumer-welfare effects of intermediaries in a pension 
 with [Jordan Richmond](https://jordan-richmond.github.io/) and [Eric Zwick](http://www.ericzwick.com/) (approved IRS project)
 
 
-#### College Admissions and Preferences for Students
+#### [College Admissions and Preferences for Students](/documents/ranking_slides_11_22.pdf)
 with [Álvaro Carril](https://acarril.github.io)
-
-_slides coming Nov 22!_
-
 
