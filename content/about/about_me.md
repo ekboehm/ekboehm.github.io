@@ -6,7 +6,7 @@ menu: "about"
 is_active: true
 ---
 
-I am a sixth year Ph.D. candidate in Economics at Princeton University, advised by Kate Ho and Alessandro Lizzeri.
+I am a sixth year Ph.D. candidate in Economics at Princeton University advised by Kate Ho and Alessandro Lizzeri.
 
 I use methods from Empirical Industrial Organization to study questions related to Public Finance. My research focuses on the role that information plays in the decisions made by consumers, firms and the government – and its implications for the design of public policies.
 
