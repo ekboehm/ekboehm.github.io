@@ -11,7 +11,7 @@ Lecturer -- Fall 2024
 ### At Princeton
 
 #### MPA Math Camp -- Calculus (MPA 635C)
-Instructor -- Summer 2021
+Lecturer -- Summer 2021
 
 #### PhD Econometrics (ECO 517)
 Teaching assistant for Prof. Michal Kolesár and Prof. Bo Honoré -- Fall 2021
