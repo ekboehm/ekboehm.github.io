@@ -3,6 +3,11 @@ title: "Teaching"
 draft: false
 ---
 
+### At LSE
+
+#### Introduction to Advanced Microeconomics, MSc EME (EC451)
+Lecturer -- Fall 2024
+
 ### At Princeton
 
 #### MPA Math Camp -- Calculus (MPA 635C)

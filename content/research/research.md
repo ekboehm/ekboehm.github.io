@@ -5,7 +5,7 @@ menu: "research"
 is_active: true
 ---
 
-### Job Market Paper
+### Working Papers
 
 #### [Intermediation, Choice Frictions, and Adverse Selection: Evidence from the Chilean Pension Market](/documents/boehm_jmp.pdf)
 
@@ -28,5 +28,3 @@ with [Jordan Richmond](https://jordan-richmond.github.io/) and [Eric Zwick](http
 
 #### [College Admissions and Preferences for Students](/documents/ranking_slides_11_22.pdf)
 with [Álvaro Carril](https://acarril.github.io)
-
-_updated soon!_
