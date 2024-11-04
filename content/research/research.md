@@ -10,9 +10,13 @@ is_active: true
 #### [Intermediation, Choice Frictions, and Adverse Selection: Evidence from the Chilean Pension Market](/documents/boehm_jmp.pdf)
 
 <div class="smaller-text">
+<em>2024 <ins>YEEA Award Finalist</ins> (EARIE) </em>
+</div>
 
+<div class="smaller-text">
 <em>2023 <ins>Best Job Market Paper Award</ins> (European Economic Association and UniCredit Foundation)</em>
 </div>
+
 
 <div class="max-width-text">
 
@@ -23,7 +27,7 @@ This paper analyzes the consumer-welfare effects of intermediaries in a pension 
 
 #### [Tax Losses, Financing Constraints and Targeting Corporate Fiscal Incentives](/documents/nol_slides_2023_11_17.pdf)
 
-with [Jordan Richmond](https://jordan-richmond.github.io/) and [Eric Zwick](http://www.ericzwick.com/) (approved IRS project)
+with [Jordan Richmond](https://jordan-richmond.github.io/), [Juan Carlos Suárez Serrato](https://www.jcsuarez.com/) and [Eric Zwick](http://www.ericzwick.com/) (approved IRS project)
 
 
 #### [College Admissions and Preferences for Students](/documents/ranking_slides_11_22.pdf)
