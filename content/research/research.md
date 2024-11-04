@@ -10,12 +10,12 @@ is_active: true
 #### [Intermediation, Choice Frictions, and Adverse Selection: Evidence from the Chilean Pension Market](/documents/boehm_jmp.pdf)
 
 <div class="smaller-text">
-<em>2024 <ins>YEEA Award Finalist</ins> (EARIE) </em>
-</div>
 
-<div class="smaller-text">
-<em>2023 <ins>Best Job Market Paper Award</ins> (European Economic Association and UniCredit Foundation)</em>
+<em>2024 <ins>YEEA Award Finalist</ins> (EARIE)<br>
+2023 <ins>Best Job Market Paper Award</ins> (European Economic Association and UniCredit Foundation)</em>
 </div>
+<!-- <div class="smaller-text">
+</div> -->
 
 
 <div class="max-width-text">
