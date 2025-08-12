@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researches on Eduard Boehm</title>
-    <link>ekboehm.github.io/research/</link>
+    <link>//localhost:1313/research/</link>
     <description>Recent content in Researches on Eduard Boehm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="ekboehm.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     

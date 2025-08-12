@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>ekboehm.github.io/about/about_me/</loc>
+    <loc>//localhost:1313/about/about_me/</loc>
   </url><url>
-    <loc>ekboehm.github.io/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>ekboehm.github.io/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>ekboehm.github.io/</loc>
+    <loc>//localhost:1313/</loc>
   </url><url>
-    <loc>ekboehm.github.io/research/research/</loc>
+    <loc>//localhost:1313/research/research/</loc>
   </url><url>
-    <loc>ekboehm.github.io/research/</loc>
+    <loc>//localhost:1313/research/</loc>
   </url><url>
-    <loc>ekboehm.github.io/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url><url>
-    <loc>ekboehm.github.io/teaching/teaching/</loc>
+    <loc>//localhost:1313/teaching/teaching/</loc>
   </url><url>
-    <loc>ekboehm.github.io/teaching/</loc>
+    <loc>//localhost:1313/teaching/</loc>
   </url>
 </urlset>
