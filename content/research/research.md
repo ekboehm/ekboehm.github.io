@@ -15,7 +15,7 @@ is_active: true
 2023 <ins>Best Job Market Paper Award</ins> (European Economic Association and UniCredit Foundation)</em>
 </div>
 <!-- <div class="smaller-text">
-</div> -->
+</div> --> 
 
 
 <div class="max-width-text">
