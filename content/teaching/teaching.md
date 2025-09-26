@@ -30,7 +30,7 @@ Course organizer and teaching assistant for Prof. Alan Blinder -- Fall 2020
 
 
 ### At University of Mannheim
-
+ 
 
 #### Introduction to Macroeconomics 
 Teaching assistant for Prof. Tom Krebs -- Spring 2017
