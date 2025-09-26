@@ -6,7 +6,7 @@ menu: "about"
 is_active: true
 ---
 
-I am an Assistant Professor in the Deparment of Economics at the London School of Economics.
+I am an Assistant Professor in the Department of Economics at the London School of Economics.
 
 I use methods from Empirical Industrial Organization to study questions related to Public Finance. My research focuses on the role that information plays in the decisions made by consumers, firms and the government – and its implications for the design of public policies.
 
