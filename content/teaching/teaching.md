@@ -5,8 +5,14 @@ draft: false
 
 ### At LSE
 
+#### Economics of Industry (IO), PhD (EC552)
+Lecturer -- Spring 2025, 2026
+
+#### Economics of Industry (IO), MSc (EC427)
+Lecturer -- Spring 2025, 2026
+
 #### Introduction to Advanced Microeconomics, MSc EME (EC451)
-Lecturer -- Fall 2024
+Lecturer -- Fall 2024, 2025 
 
 ### At Princeton
 
