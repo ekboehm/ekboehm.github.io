@@ -11,7 +11,7 @@ is_active: true
 
 <div class="smaller-text">
 <em>
-Revise and resubmit and the Journal of Political Economy
+Revise and resubmit at the Journal of Political Economy
 
 2024 <ins>YEEA Award Finalist</ins> (EARIE)<br>
 2023 <ins>Best Job Market Paper Award</ins> (European Economic Association and UniCredit Foundation)</em>
