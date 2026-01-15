@@ -10,8 +10,10 @@ is_active: true
 #### [Intermediation, Choice Frictions, and Adverse Selection: Evidence from the Chilean Pension Market](/documents/boehm_cfrictions.pdf)
 
 <div class="smaller-text">
+<em>
+Revise and resubmit and the Journal of Political Economy
 
-<em>2024 <ins>YEEA Award Finalist</ins> (EARIE)<br>
+2024 <ins>YEEA Award Finalist</ins> (EARIE)<br>
 2023 <ins>Best Job Market Paper Award</ins> (European Economic Association and UniCredit Foundation)</em>
 </div>
 <!-- <div class="smaller-text">
@@ -31,7 +33,13 @@ with [Jordan Richmond](https://jordan-richmond.github.io/), [Juan Carlos Suárez
 
 
 #### [College Admissions and Preferences for Students](/documents/ranking_slides_11_22.pdf)
-with [Álvaro Carril](https://acarril.github.io)
+with [Álvaro Carril](https://acarril.github.io) 
+<!-- and [Karl Schulze](https://sites.google.com/view/karl-schulze/home)
+<div class="smaller-text">
+<em>
+Draft coming soon!
+</em>
+</div> -->
 
 #### Bundling in Insurance Markets
 with Bretchen Hoskins and [Derek Wenning](https://www.derekwenning.com/)
